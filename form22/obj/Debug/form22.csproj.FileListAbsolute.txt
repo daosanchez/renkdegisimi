@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\bin\Debug\form22.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\bin\Debug\form22.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\bin\Debug\form22.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form22\form22\obj\Debug\form22.pdb
